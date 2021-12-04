@@ -119,11 +119,13 @@
         "mainTech": [
           "React"
         ],
+        "mainTechIcon": "fab fa-react experience-icon",
         "technologies": [
           "HTML5",
           "CSS3",
           "JavaScript",
           "React-Bootstrap",
+          "Markdown",
           "Git",
           "GitHub"
         ]
@@ -135,6 +137,7 @@
         "mainTech": [
           ""
         ],
+        "mainTechIcon": "fas fa-cogs experience-icon",
         "technologies": [
           "Metabase",
           "MySQL",
@@ -149,6 +152,7 @@
         "mainTech": [
           ""
         ],
+        "mainTechIcon": "fas fa-cogs experience-icon",
         "technologies": [
           "Aegis Factory Logix",
           "SQL",
@@ -163,6 +167,7 @@
         "mainTech": [
           ""
         ],
+        "mainTechIcon": "fas fa-cogs experience-icon",
         "technologies": [
           "MS Excel",
           "Creo"
