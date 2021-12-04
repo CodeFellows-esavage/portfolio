@@ -5,12 +5,12 @@
       "social": [
         {
           "name": "github",
-          "url": "github.com/eriksavage",
+          "url": "https://www.github.com/eriksavage",
           "class": "fab fa-github"
         },
         {
           "name": "linkedin",
-          "url": "linkedin.com/in/erikksavage",
+          "url": "https://www.linkedin.com/in/erikksavage",
           "class": "fab fa-linkedin"
         }
       ],
