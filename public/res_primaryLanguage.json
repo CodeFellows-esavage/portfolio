@@ -113,37 +113,59 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Development Student",
+        "years": "10.2021 - 03.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML5",
+          "CSS3",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React-Bootstrap",
+          "Git",
+          "GitHub"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Glowforge",
+        "title": "Sr. Manufacturing Engineer",
+        "years": "01.2019 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Metabase",
+          "MySQL",
+          "Solidworks",
+          "G-Suite"
+        ]
+      },
+      {
+        "company": "ATS",
+        "title": "Manufacturing Engineer",
+        "years": "09.2017 - 01.2019",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Aegis Factory Logix",
+          "SQL",
+          "MS Excel",
+          "Solidworks"
+        ]
+      },
+      {
+        "company": "PACCAR",
+        "title": "Design/Manufacturing Engineer",
+        "years": "05.2010 - 09.2017",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "MS Excel",
+          "Creo"
         ]
       }
     ]
