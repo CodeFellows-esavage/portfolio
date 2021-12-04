@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Erik Savage",
+      "titles": [ "Experienced Manufacturing Engineer pivoting to SW Development." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "github.com/eriksavage",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "linkedin.com/in/erikksavage",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "erikProfilePic.jpg"
     },
     "skills": {
       "icons": [
