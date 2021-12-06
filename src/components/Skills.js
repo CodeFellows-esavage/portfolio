@@ -25,7 +25,7 @@ class Skills extends Component {
     }
 
     return (
-      <section id="skills">
+      <section id="skills" style={{backgroundImage: "url(/images/seatown.jpg)", backgroundSize: "cover"}}>
         <div className="col-md-12">
           <div className="col-md-12">
             <h1 className="section-title">
